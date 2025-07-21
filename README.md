@@ -53,24 +53,9 @@ Q_{\text{max}} = C_{\min} \cdot (T_{h,in} - T_{c,in})
 
 ---
 
-## 🧾 Assumptions
-
-- Steady-state operation
-- Constant specific heats
-- No heat loss to the environment (adiabatic system)
-- No phase change
-
----
 
 
 
-> ✅ **Conclusion**: **Counter Flow Heat Exchangers** are generally more efficient and are preferred when maximizing heat transfer is important.
 
----
 
-## 🚀 How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/heat-exchanger-visualizer.git
-   cd heat-exchanger-visualizer
